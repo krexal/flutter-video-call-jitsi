@@ -1,6 +1,6 @@
 # video_call_jitsi
 
-A new Flutter project.
+A video call app in flutter using Jitsi open source
 
 ## Getting Started
 
