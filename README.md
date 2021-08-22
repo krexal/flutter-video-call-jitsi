@@ -3,15 +3,14 @@
 A video call app in flutter using Jitsi open source
 
 ## Screensots
-<img src="screenshots/1.jpg" alt="Screenshot" width="150" height="350">
+<img src="screenshots/1.jpg" alt="Screenshot" width="200" height="auto">
+<img src="screenshots/2.jpg" alt="Screenshot" width="200" height="auto">
+<img src="screenshots/3.jpg" alt="Screenshot" width="200" height="auto">
+<img src="screenshots/4.jpg" alt="Screenshot" width="200" height="auto">
+<img src="screenshots/5.jpg" alt="Screenshot" width="200" height="auto">
+<img src="screenshots/6.jpg" alt="Screenshot" width="200" height="auto">
+<img src="screenshots/7.jpg" alt="Screenshot" width="200" height="auto">
 
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/2.jpg)
-![Screenshot](screenshots/3.jpg)
-![Screenshot](screenshots/4.jpg)
-![Screenshot](screenshots/5.jpg)
-![Screenshot](screenshots/6.jpg)
-![Screenshot](screenshots/7.jpg)
 
 
 
